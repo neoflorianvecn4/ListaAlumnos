@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ListaAlumnos</string>
+    <string name="app_name">Lista Alumnos</string>
+    <string name="desc1">descUno</string>
 </resources>
